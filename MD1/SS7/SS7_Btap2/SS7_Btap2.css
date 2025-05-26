@@ -1,0 +1,29 @@
+body {
+    background-color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+    background-color: #ffffff;
+    padding: 20px;
+    border: 2px solid black;
+}
+
+.items {
+    background-color: #6c6;
+    color: white;
+    text-align: center;
+    width: 180px;
+    height: 80px;
+    border-radius: 5px;
+    line-height: 80px;
+    font-size: 20px;
+}

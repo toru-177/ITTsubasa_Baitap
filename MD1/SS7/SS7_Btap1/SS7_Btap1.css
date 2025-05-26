@@ -1,0 +1,23 @@
+* {
+    height: 100%;
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #111;
+}
+
+.items {
+    display: flex;
+    width: 100px;
+    height: 100px;
+    background-color: #2d6ca2;
+    color: black;
+    font-weight: bold;
+    justify-content: center;
+    align-items: center;
+}
